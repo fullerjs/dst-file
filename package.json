@@ -11,17 +11,12 @@
 		"automation"
 	],
 	"author": "Alexey Novikov (http://2dubs.com)",
-	"preferGlobal": true,
-	"private": false,
 	"engines": {
 		"node": "~0.12.0",
 		"io":   "^1.0.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:fullerjs/fuller-dst-file.git"
-	},
-	"dependencies": {
-			"fsu": "^0.2.0"
-		}
+		"url": "git@github.com:fullerjs/dst-file.git"
 	}
+}
