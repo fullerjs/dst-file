@@ -1,6 +1,6 @@
-"use strict";
+'use strict';
 
 module.exports = function(f, mat, options, next) {
-	mat.write(options);
-	next(null, mat);
+  mat.write(options);
+  next(null, mat);
 };
